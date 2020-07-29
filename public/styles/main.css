@@ -9,12 +9,21 @@ h1 {
   color: #ff79c6;
 }
 
+h2 {
+  color: #ff5555;
+}
+
 strong {
   color: #50fa7b;
 }
 
 a {
   color: #8be9fd;
+}
+
+pre {
+  font-size: 12px;
+  color: #6272a4;
 }
 
 main,
