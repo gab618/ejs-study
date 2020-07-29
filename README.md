@@ -12,13 +12,13 @@
   </p>
 </p>
 
-### Techs
+## Techs
 
 - Node.js
 - Express
 - EJS
 
-### Objetivos do estudo
+## Objetivos do estudo
 
 - [x] Ter um primeiro contato com EJS
 - [x] Praticar conceitos do Express
