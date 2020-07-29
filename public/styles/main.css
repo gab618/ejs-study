@@ -1,6 +1,20 @@
 body {
   font: 18px "Lucida Grande", Helvetica, Arial, sans-serif;
   line-height: 2;
+  color: #bd93f9;
+  background: #282a36;
+}
+
+h1 {
+  color: #ff79c6;
+}
+
+strong {
+  color: #50fa7b;
+}
+
+a {
+  color: #8be9fd;
 }
 
 main,
